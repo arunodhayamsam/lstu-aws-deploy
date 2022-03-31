@@ -1,0 +1,3 @@
+[submodule "ansible-role-lstu"]
+	path = ansible-role-lstu
+	url = https://github.com/arunodhayamsam/ansible-role-lstu.git
